@@ -17,7 +17,7 @@ It is based on [the Thompson Shell](https://en.wikipedia.org/wiki/Thompson_shell
 ## Installation :wrench:
 Clone the below repository and compile the files into an executable using the GCC compiler.
 ```
-https://github.com/Fraol123/simple_shell.git.
+https://github.com/GrimDarkBlur/simple_shell.git.
 ```
 ##Environment :evergreen_tree::evergreen_tree:
 
@@ -38,10 +38,10 @@ ls -la
 ```
 ![screenshot of shell](https://user-images.githubusercontent.com/30075600/114757753-e50c2180-9d64-11eb-95ea-fb9bba776c8c.png)
 
-## Contributors :sunglasses::muscle:
-* [**Fraol Tolera**](https://github.com/Fraol123)
-* [**Andrew Mukare**](https://github.com/JudgeFudge19)
-* [**Ermias Teshome**](https://github.com/ermiast)
+## Contributors :
+* [**Emmanuel Keifala*](https://github.com/GrimDarkBlur)
+* [**Micheal Johnson*](https://github.com/JudgeFudge19)
+
 
 ## Acknowledgments :pray:
 - Our fellow cohort members.
